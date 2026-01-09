@@ -41,10 +41,10 @@ It uses **proper macOS DNS routing**, not browser hacks.
 
 ## Installation
 
-Clone the repository, then run the installer:
+Run the installer:
 
 ```bash
-bash install.sh
+curl -fSsL https://zimoshi.github.io/ma.ma/install.sh | bash
 ````
 
 The installer will:
