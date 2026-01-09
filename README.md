@@ -170,7 +170,7 @@ It only exists on *your* machine.
 
 ## License
 
-MIT (or whatever you decide later)
+MCPL
 
 ---
 
